@@ -4,13 +4,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.wipro.poc</groupId>
-	<artifactId>webcrawler</artifactId>
+	<artifactId>demoCrawler</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>webcrawler</name>
+	<name>demoCrawler</name>
 
 	<build>
-		<finalName>webcrawler</finalName>
+		<finalName>demoCrawler</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
